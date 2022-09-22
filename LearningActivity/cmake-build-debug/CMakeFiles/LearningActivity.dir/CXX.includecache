@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gregoryknapp/CLionProjects/LearningActivity/Pathfinder.cpp
+Pathfinder.h
+/Users/gregoryknapp/CLionProjects/LearningActivity/Pathfinder.h
+
+/Users/gregoryknapp/CLionProjects/LearningActivity/Pathfinder.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+sstream
+-
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="LearningActivity" targetName="LearningActivity" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca5078e3-b6dc-434d-9a92-81e6b2df1e92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1bj7CXqVkYdv1TbPmKAL7iQqrtp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LearningActivity" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="LearningActivity" TARGET_NAME="LearningActivity" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="LearningActivity" RUN_TARGET_NAME="LearningActivity">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca5078e3-b6dc-434d-9a92-81e6b2df1e92" name="Default Changelist" comment="" />
+      <created>1589133521344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589133521344</updated>
+      <workItem from="1589133523064" duration="1501000" />
+      <workItem from="1589149814542" duration="1987000" />
+      <workItem from="1589219126538" duration="3742000" />
+      <workItem from="1589225081949" duration="230000" />
+      <workItem from="1589225345653" duration="126000" />
+      <workItem from="1589226511373" duration="3979000" />
+      <workItem from="1589274030326" duration="1393000" />
+      <workItem from="1589406656597" duration="224000" />
+      <workItem from="1589411087507" duration="7923000" />
+      <workItem from="1589419529117" duration="427000" />
+      <workItem from="1589432427340" duration="169000" />
+      <workItem from="1589433050975" duration="4703000" />
+      <workItem from="1589477009976" duration="23000" />
+      <workItem from="1589478523396" duration="429000" />
+      <workItem from="1589594078927" duration="433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589220638001">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1589220638001" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1589224365380">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589224365380" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1589224365362">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589224365362" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1589224365361">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589224365361" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1589224365379">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589224365379" />
+    <state x="319" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1589594078425">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="319" y="234" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1589594078425" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.714@0.23.1280.714" timestamp="1589150199902" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1589436097410">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1589436097410" />
+  </component>
+</project>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Lab5QuickSort" targetName="Lab5QuickSort" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5a95227-4519-4b58-a99b-db90604d48b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lab5-Quicksort" />
+  </component>
+  <component name="ProjectId" id="1buLSnzXqlDKTkeMV2VzjH1jJdy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab5QuickSort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab5QuickSort" TARGET_NAME="Lab5QuickSort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab5QuickSort" RUN_TARGET_NAME="Lab5QuickSort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5a95227-4519-4b58-a99b-db90604d48b1" name="Default Changelist" comment="" />
+      <created>1589477033119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589477033119</updated>
+      <workItem from="1589477035056" duration="1935000" />
+      <workItem from="1589594079575" duration="10893000" />
+      <workItem from="1589684792317" duration="797000" />
+      <workItem from="1589692943391" duration="10000" />
+      <workItem from="1589693121376" duration="980000" />
+      <workItem from="1589698684108" duration="124000" />
+      <workItem from="1589741055109" duration="35000" />
+      <workItem from="1589743897613" duration="601000" />
+      <workItem from="1589755508392" duration="5000" />
+      <workItem from="1589755736130" duration="17000" />
+      <workItem from="1590726634539" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LIMIT_HISTORY" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="112" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589668377303">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="428" y="112" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.800@0.0.1280.800" timestamp="1589668377303" />
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589477133038">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1589477133038" />
+    <state x="406" y="237" key="#com.intellij.tools.ToolEditorDialog" timestamp="1589668422209">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="406" y="237" key="#com.intellij.tools.ToolEditorDialog/0.0.1280.800@0.0.1280.800" timestamp="1589668422209" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1589688117401">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589688117401" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1589688117398">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1589688117398" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1589688117394">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1589688117394" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1589688117400">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1589688117400" />
+    <state width="1238" height="212" key="GridCell.Tab.1.bottom" timestamp="1589688117405">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1589688117405" />
+    <state width="1238" height="212" key="GridCell.Tab.1.center" timestamp="1589688117403">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1589688117403" />
+    <state width="1238" height="212" key="GridCell.Tab.1.left" timestamp="1589688117402">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1589688117402" />
+    <state width="1238" height="212" key="GridCell.Tab.1.right" timestamp="1589688117404">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1589688117404" />
+    <state x="149" y="23" width="1280" height="724" key="SettingsEditor" timestamp="1589693964180">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1589693964180" />
+    <state x="0" y="23" width="1280" height="724" key="SettingsEditor/0.23.1280.724@0.23.1280.724" timestamp="1589668288984" />
+    <state x="319" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1589755508850">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="319" y="234" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1589755508850" />
+    <state x="319" y="232" key="com.intellij.ide.util.TipDialog/0.23.1280.716@0.23.1280.716" timestamp="1589692943378" />
+    <state x="402" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1589478744866">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="402" y="38" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1589478744866" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1589598300145">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1589598300145" />
+  </component>
+</project>

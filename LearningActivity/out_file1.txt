@@ -1,0 +1,18 @@
+importMaze Mazes/Solvable1.txt False
+toString 
+
+importMaze Mazes/Solvable2.txt False
+toString
+
+importMaze Mazes/Solvable3.txt False
+toString
+
+importMaze Mazes/Unsolvable1.txt False
+toString
+
+importMaze Mazes/Unsolvable2.txt False
+toString
+
+importMaze Mazes/Unsolvable3.txt False
+toString
+

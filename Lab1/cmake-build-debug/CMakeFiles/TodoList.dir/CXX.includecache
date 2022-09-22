@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gregoryknapp/CLionProjects/TodoList/TodoList.h
+iostream
+-
+string
+-
+TodoListInterface.h
+/Users/gregoryknapp/CLionProjects/TodoList/TodoListInterface.h
+fstream
+-
+vector
+-
+
+/Users/gregoryknapp/CLionProjects/TodoList/TodoListInterface.h
+iostream
+-
+string
+-
+
+/Users/gregoryknapp/CLionProjects/TodoList/main.cpp
+iostream
+-
+string
+-
+TodoList.h
+/Users/gregoryknapp/CLionProjects/TodoList/TodoList.h
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Lab8" targetName="Lab8" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dd2eee60-34ce-4b60-b1ca-5020eba88fc5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lab8-AVL" />
+  </component>
+  <component name="ProjectId" id="1cNtNRfU7Z7EfaML4t1asISfUpz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Lab8" TARGET_NAME="Lab8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Lab8" RUN_TARGET_NAME="Lab8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd2eee60-34ce-4b60-b1ca-5020eba88fc5" name="Default Changelist" comment="" />
+      <created>1590380838871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590380838871</updated>
+      <workItem from="1590380842144" duration="657000" />
+      <workItem from="1590382237672" duration="1200000" />
+      <workItem from="1590600823565" duration="277000" />
+      <workItem from="1590618952330" duration="15003000" />
+      <workItem from="1590726611283" duration="13184000" />
+      <workItem from="1590782906785" duration="130000" />
+      <workItem from="1590808797961" duration="5000" />
+      <workItem from="1590811714128" duration="605000" />
+      <workItem from="1590825942178" duration="598000" />
+      <workItem from="1591214901082" duration="86000" />
+      <workItem from="1592253664441" duration="227000" />
+      <workItem from="1592371093875" duration="82000" />
+      <workItem from="1592969748056" duration="411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="317" y="228" key="com.intellij.ide.util.TipDialog" timestamp="1592371277166">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="317" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1592371277166" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1590732693857">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1590732693857" />
+  </component>
+</project>
